@@ -67,12 +67,12 @@ This service uses the Forex Service to convert amounts from one currency to anot
     GET http://localhost:8100/currency-conversion/from/USD/to/INR/quantity/1000
     ```
 
-## Additional Notes
-- Make sure to have Maven and Java configured on your machine.
-- Ensure that all services are running for successful communication between them.
+## Authors and Contributions
+This project was developed by the following contributors:
 
-## Authors
-This project was developed by `bsmahi` and updated to Spring Boot 3 for the latest features and improvements.
+- [Maatangy](https://github.com/Maatangy/)
+- [Bruhathi](https://github.com/bruhathisp) 
+
 
 
 
