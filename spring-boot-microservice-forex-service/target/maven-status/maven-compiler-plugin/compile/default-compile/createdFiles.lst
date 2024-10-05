@@ -1,0 +1,4 @@
+com\in28minutes\springboot\microservice\example\forex\ForexController.class
+com\in28minutes\springboot\microservice\example\forex\ExchangeValue.class
+com\in28minutes\springboot\microservice\example\forex\ExchangeValueRepository.class
+com\in28minutes\springboot\microservice\example\forex\SpringBootMicroserviceForexServiceApplication.class
