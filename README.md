@@ -11,7 +11,7 @@ Each microservice communicates via REST APIs, and the Eureka Naming Server facil
 ## Prerequisites
 - Java 17+
 - Maven 3.8+
-- Spring Boot 3.x
+- Spring Boot 3.x   
 
 ## Services Overview
 ### 1. Eureka Naming Server
